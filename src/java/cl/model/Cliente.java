@@ -3,7 +3,7 @@ package cl.model;
 /**
  *
  * @author prpfe Hernán
- * @version 23-04-2020
+ * @version 23-04-2018
  * 
  */
 public class Cliente {
