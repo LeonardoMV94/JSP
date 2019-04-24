@@ -45,7 +45,7 @@
 
 
                         <button class="btn waves-effect waves-light right-align" type="submit">Enviar
-                            <i class="material-icons right">enviar</i>
+                            <i class="material-icons right">Summit</i>
                         </button>
 
                     </form>
