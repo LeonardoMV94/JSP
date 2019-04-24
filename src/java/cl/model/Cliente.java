@@ -7,6 +7,8 @@ package cl.model;
  * 
  */
 public class Cliente {
+    //
+    //
     
     private String nombre;
     private String apellido;
